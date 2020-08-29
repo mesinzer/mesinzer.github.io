@@ -1,5 +1,5 @@
 ---
-layout: _post
+layout: post
 title: 지금나는 잘하고 있는가
 date: 2020-08-29 19:54:23 +0900
 category: update
