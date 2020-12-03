@@ -4,6 +4,7 @@ title:  "코로나와 추위에 감기걸리지 않게 조심하세용"
 subtitle:   "스스로 잘지키시길."
 categories: essay
 tags: essay
+comments: true
 
 ---
 
