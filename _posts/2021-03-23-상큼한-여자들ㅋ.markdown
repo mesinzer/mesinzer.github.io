@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "눈으로 즐기는 피서"
+subtitle:   "여름에 볼만한 영상."
+categories: video
+tags: meteor video
+
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EQG5kx2l31E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
