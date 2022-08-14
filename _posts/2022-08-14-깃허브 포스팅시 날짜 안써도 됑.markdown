@@ -1,0 +1,15 @@
+---
+layout: post
+title: 깃허브 포스팅시 날짜입력을 해야하나
+
+subtitle:   "."
+categories: video
+tags: meteor video
+
+---
+그냥 막입력해도 상관 없으면 좋겠다
+
+
+배고ㅡ프다
+
+밥먹자
