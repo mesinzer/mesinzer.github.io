@@ -2,6 +2,10 @@
 layout: post
 title: 깃허브 포스팅시 날짜 안써도 됑
 
+subtitle:   "."
+categories: video
+tags: meteor video
+
 ---
 그냥 막입력해도 상관 없으
 
