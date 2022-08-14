@@ -1,0 +1,11 @@
+---
+layout: post
+title:  " 빗물받이 덮개 열어보니...폭우 때마다 침수가 당연했네!"
+subtitle:   "뉴스."
+categories: video
+tags: meteor video
+
+---
+<iframe width="660" height="515" src="https://www.youtube.com/embed/nQd9vpgdBeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
