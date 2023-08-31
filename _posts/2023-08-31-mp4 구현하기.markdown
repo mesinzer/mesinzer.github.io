@@ -1,1 +1,1 @@
-<object src="https://media5jvqbd.fmkorea.com/files/attach/new3/20230831/486616/638012495/6133707260/094e48f57cdecf1c816b1b5345e73588.mov.mp4"></object>
+<video controls="" autoplay="" name="media"><source src="https://media5jvqbd.fmkorea.com/files/attach/new3/20230831/486616/638012495/6133707260/094e48f57cdecf1c816b1b5345e73588.mov.mp4" type="video/mp4"></video>
